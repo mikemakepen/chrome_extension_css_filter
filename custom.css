@@ -6,3 +6,5 @@ div[class^="baiduimageplus-s-wrap"] {display: none !important;}
 div[id^="JdlFixed"] {display: none !important;}
 div[class^="daf-close"] {display: none !important;}
 div[class^="dl-fixed"] {display: none !important;}
+div[id^="ad_"] {display: none !important;}
+div[id^="tanx-popwin"] {display: none !important;}
