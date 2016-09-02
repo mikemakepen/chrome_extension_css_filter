@@ -3,3 +3,6 @@ div[class^="imageplus-append"] {display: none !important;}
 div[class^="ad-widget-imageplus"] {display: none !important;}
 div[id^="BAIDU_SSP__wrapper"] {display: none !important;}
 div[class^="baiduimageplus-s-wrap"] {display: none !important;}
+div[id^="JdlFixed"] {display: none !important;}
+div[class^="daf-close"] {display: none !important;}
+div[class^="dl-fixed"] {display: none !important;}
