@@ -5,8 +5,8 @@
       "matches": [ "*://*/*"]
    }
    ],
-   "description": "custom.css",
-   "name": "custom.css",
+   "description": "ad_filter",
+   "name": "ad_filter",
    "version": "1.0",
    "manifest_version": 2
 }
