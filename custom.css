@@ -8,3 +8,4 @@ div[class^="daf-close"] {display: none !important;}
 div[class^="dl-fixed"] {display: none !important;}
 div[id^="ad_"] {display: none !important;}
 div[id^="tanx-popwin"] {display: none !important;}
+div[class^="sinaad-toolkit-box"] {display: none !important;}
